@@ -14,13 +14,13 @@ Welcome to my cozy little corner on GitHub ✨
 ---
 
 ## 💕 Currently Learning
-- 🌟 Java & Python adventures  
+- 🌟 Java & Python   
 - 🔐 A little bit of cybersecurity magic  
 - 📊 Playing with data until it makes sense  
 
 ---
 
-## ✨ Tech Cuties I Use
+## ✨ Tech stuff I Use
 💻 Java · 🐍 Python · 📊 Statistics · 🌐 HTML/CSS · 🖤 Git
 
 
