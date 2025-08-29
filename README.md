@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🌸 Hi there, I’m Hikari! 🌸  
 
-<!--
-**rolan-lab/rolan-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my cozy little corner on GitHub ✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐱 About Me
+- 💻 Just a girl trying to make code *actually* work  
+- ☕ Fueled by tea, snacks, and late-night debugging  
+- 🌙 Coding at 3AM because inspiration (or errors) never sleep  
+- 🎨 Love mixing creativity with code  
+- 🐾 Professional bug whisperer  
+
+---
+
+## 💕 Currently Learning
+- 🌟 Java & Python adventures  
+- 🔐 A little bit of cybersecurity magic  
+- 📊 Playing with data until it makes sense  
+
+---
+
+## ✨ Tech Cuties I Use
+💻 Java · 🐍 Python · 📊 Statistics · 🌐 HTML/CSS · 🖤 Git
+
+
+---
+
+## 🐾 GitHub Stats
+![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hikari&show_icons=true&theme=sakura&title_color=ff69b4&icon_color=ffb6c1)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikari&layout=compact&theme=sakura)  
+
+---
+
+## 🌸 Fun Fact
+> “My code works perfectly… on the **fifth try**.”  
+
+---
+
+### 🌷 Thanks for stopping by!
+Feel free to ⭐ a repo or just say hi 💌  
