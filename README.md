@@ -5,7 +5,7 @@ Welcome to my cozy little corner on GitHub ✨
 ---
 
 ## 🐱 About Me
-- 💻 Just a girl trying to make code *actually* work  
+- 💻 Just a person trying to make code *actually* work  
 - ☕ Fueled by tea, snacks, and late-night debugging  
 - 🌙 Coding at 3AM because inspiration (or errors) never sleep  
 - 🎨 Love mixing creativity with code  
