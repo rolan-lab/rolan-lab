@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:3ddc97&height=200&section=header&text=Rulan%20Alqurashi&fontSize=48&fontColor=e6fff4&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20Robotic%20Systems%20Security&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:3ddc97&height=200&section=header&text=Rolan&fontSize=56&fontColor=e6fff4&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20Robotic%20Systems%20Security&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/rolan-lab">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=600&lines=%24+whoami;CS+student+%40+Umm+Al-Qura+University;Breaking+LLMs+to+make+them+safer;Linux+daily+driver+%E2%80%94+CachyOS+%2B+Hyprland;Building+toward+a+Master's+in+Cybersecurity" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=600&lines=%24+whoami;Computer+Science+student;Breaking+LLMs+to+make+them+safer;Linux+daily+driver+%E2%80%94+CachyOS+%2B+Hyprland;Always+learning+security" alt="typing" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-3ddc97?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Based_in-Makkah,_KSA-3ddc97?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Open_to-Co--op_2027-3ddc97?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Also_into-AI_%26_Robotics-3ddc97?style=for-the-badge&labelColor=0d1117" />
 <img src="https://komarev.com/ghpvc/?username=rolan-lab&style=for-the-badge&color=3ddc97&label=VIEWS" />
 
 </div>
@@ -20,14 +19,11 @@
 ## `> cat about_me.txt`
 
 ```yaml
-name:      Rulan Alqurashi
-role:      3rd-year Computer Science student @ Umm Al-Qura University
+role:      Computer Science student
 focus:     [cybersecurity, LLM security, digital forensics, robotics security]
 currently: building an LLM prompt-injection testing harness
 learning:  [operating systems, algorithms, web dev, TryHackMe paths]
-clubs:     [UQU Computer Club, Tuwaiq Club]
-giving_back: teaching CS courses in the Manar initiative
-os:        CachyOS + Hyprland (Linux user 2+ years)
+os:        CachyOS + Hyprland
 ```
 
 ---
