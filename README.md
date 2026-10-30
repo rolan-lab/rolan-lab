@@ -27,7 +27,7 @@ currently: building an LLM prompt-injection testing harness
 learning:  [operating systems, algorithms, web dev, TryHackMe paths]
 clubs:     [UQU Computer Club, Tuwaiq Club]
 giving_back: teaching CS courses in the Manar initiative
-os:        CachyOS + Hyprland
+os:        CachyOS + Hyprland (Linux user 2+ years)
 ```
 
 ---
@@ -47,8 +47,8 @@ os:        CachyOS + Hyprland
 ## 📊 `> stats.scan_`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rolan-lab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3ddc97&icon_color=3ddc97&text_color=c9d1d9&ring_color=3ddc97" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolan-lab&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=3ddc97&text_color=c9d1d9" />
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </div>
 
 <div align="center">
