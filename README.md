@@ -48,7 +48,7 @@ os:        CachyOS + Hyprland
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -65,18 +65,18 @@ os:        CachyOS + Hyprland
 
 ---
 
-## 📂 `> ./projects.sh --pinned`
+##  `> ./projects.sh --pinned`
 
 | Project | What it does | Tags |
 |---|---|---|
-| 🛡️ **llm-inject-harness** | Automated prompt-injection testing for LLM apps | `ai-security` `red-team` `python` |
-| 🌙 **Lyra** | My personal AI operating system | `ai` `assistant` `automation` |
-| 🔍 **forensic-timeline-toolkit** | Builds timelines and correlates forensic artifacts | `dfir` `forensics` `python` |
-| 🤖 **esp32-desk-ai** | A tiny voice AI assistant that lives on my desk | `esp32` `iot` `hardware` |
+|  **llm-inject-harness** | Automated prompt-injection testing for LLM apps | `ai-security` `red-team` `python` |
+|  **Lyra** | My personal AI operating system | `ai` `assistant` `automation` |
+|  **forensic-timeline-toolkit** | Builds timelines and correlates forensic artifacts | `dfir` `forensics` `python` |
+|  **esp32-desk-ai** | A tiny voice AI assistant that lives on my desk | `esp32` `iot` `hardware` |
 
 ---
 
-## 🏅 Certifications & Training
+##  Certifications & Training
 
 <div align="center">
 
