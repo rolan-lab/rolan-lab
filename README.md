@@ -43,11 +43,6 @@ os:        CachyOS + Hyprland
 ## 📊 `> stats.scan_`
 
 <div align="center">
-  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
-  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=rolan-lab&hide_border=true&background=0D1117&ring=3DDC97&fire=3DDC97&currStreakLabel=3DDC97&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </div>
 
