@@ -27,7 +27,7 @@ currently: building an LLM prompt-injection testing harness
 learning:  [operating systems, algorithms, web dev, TryHackMe paths]
 clubs:     [UQU Computer Club, Tuwaiq Club]
 giving_back: teaching CS courses in the Manar initiative
-os:        CachyOS + Hyprland (Linux user 2+ years)
+os:        CachyOS + Hyprland
 ```
 
 ---
